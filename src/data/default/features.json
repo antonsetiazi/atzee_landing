@@ -1,0 +1,16 @@
+{
+    "items": [
+        {
+            "title": "Fast",
+            "description": "Super fast performance"
+        },
+        {
+            "title": "Secure",
+            "description": "Enterprise security"
+        },
+        {
+            "title": "Scalable",
+            "description": "Grow without limits"
+        }
+    ]
+}

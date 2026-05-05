@@ -1,0 +1,25 @@
+{
+    "title": "Trusted by Businesses Building Serious Systems",
+    "items": [
+        {
+            "name": "Andi Pratama",
+            "company": "Digital Service Company",
+            "quote": "Kami sebelumnya membangun sistem dari nol setiap kali ada proyek baru. Dengan Atzee, kami bisa menghemat waktu pengembangan secara signifikan dan lebih fokus ke kebutuhan bisnis klien."
+        },
+        {
+            "name": "Rina Wijaya",
+            "company": "Multi-branch Service Business",
+            "quote": "Struktur multi-tenant di Atzee sangat membantu kami dalam mengelola beberapa unit bisnis dalam satu platform tanpa harus membuat sistem terpisah."
+        },
+        {
+            "name": "Budi Santoso",
+            "company": "Technology Consultant",
+            "quote": "Yang paling terasa adalah fleksibilitasnya. Kami bisa menyesuaikan alur bisnis tanpa harus mengubah fondasi sistem, sesuatu yang sulit dilakukan jika membangun dari awal."
+        },
+        {
+            "name": "Kevin Tan",
+            "company": "Enterprise Solutions Firm",
+            "quote": "Atzee memberikan kami fondasi yang stabil untuk membangun solusi skala besar. Integrasi dan pengembangan lanjutan jadi jauh lebih terarah."
+        }
+    ]
+}

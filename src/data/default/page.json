@@ -1,0 +1,8 @@
+[
+    { "type": "hero" },
+    { "type": "about", "variant": "split" },
+    { "type": "features", "variant": "grid3" },
+    { "type": "testimonial" },
+    { "type": "pricing" },
+    { "type": "faq" }
+]

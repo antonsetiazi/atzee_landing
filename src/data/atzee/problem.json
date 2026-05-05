@@ -1,0 +1,22 @@
+{
+    "title": "Building Systems Shouldn’t Start From Zero",
+    "subtitle": "Masalah yang terus berulang dalam pengembangan sistem bisnis.",
+    "items": [
+        {
+            "title": "Rebuilding From Scratch",
+            "description": "Setiap proyek dimulai dari nol, menghabiskan waktu dan energi untuk hal yang sebenarnya sudah pernah dibuat sebelumnya."
+        },
+        {
+            "title": "Inconsistent Architecture",
+            "description": "Struktur sistem berubah-ubah di setiap proyek, membuat maintenance dan scaling menjadi sulit."
+        },
+        {
+            "title": "Slow Development Cycle",
+            "description": "Waktu habis untuk membangun fondasi dasar, bukan untuk fokus ke kebutuhan bisnis yang sebenarnya."
+        },
+        {
+            "title": "Difficult Integration",
+            "description": "Menggabungkan berbagai sistem dan fitur seringkali kompleks dan memakan waktu karena tidak dirancang sejak awal."
+        }
+    ]
+}

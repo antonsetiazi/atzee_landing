@@ -1,0 +1,15 @@
+{
+    "title": "What our users say",
+    "items": [
+        {
+            "name": "John Doe",
+            "company": "Acme Inc",
+            "quote": "This product changed our workflow."
+        },
+        {
+            "name": "Jane Smith",
+            "company": "Startup XYZ",
+            "quote": "Amazing experience using this."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What kind of projects do you usually work on?",
+        "answer": "I focus on building scalable systems such as ERP platforms, service marketplaces, and custom business applications designed for long-term use."
+    },
+    {
+        "question": "Do you work on small projects?",
+        "answer": "I primarily focus on medium to large-scale systems where proper architecture and long-term thinking are required."
+    },
+    {
+        "question": "What technologies do you use?",
+        "answer": "I work mainly with Python (Django) for backend and modern JavaScript/TypeScript frameworks for frontend, along with scalable system architecture principles."
+    },
+    {
+        "question": "Can you build a system from scratch?",
+        "answer": "Yes, from concept to production. I can help design, architect, and build systems aligned with your business goals."
+    },
+    {
+        "question": "How can we start working together?",
+        "answer": "You can start by reaching out for a discussion. From there, we can explore your needs and determine the best approach forward."
+    }
+]

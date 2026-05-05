@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Starter",
+        "price": "$9/mo",
+        "features": ["Basic analytics", "10 projects", "Email support"],
+        "cta": "Start Free"
+    },
+    {
+        "name": "Pro",
+        "price": "$29/mo",
+        "features": [
+            "Advanced analytics",
+            "Unlimited projects",
+            "Priority support"
+        ],
+        "cta": "Upgrade"
+    }
+]

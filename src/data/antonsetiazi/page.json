@@ -1,0 +1,12 @@
+[
+    { "type": "hero", "variant": "center" },
+    { "type": "about", "variant": "split", "background": "bg-white" },
+    { "type": "problem", "background": "bg-blue-50" },
+    { "type": "solution", "background": "bg-white" },
+    { "type": "howiwork", "background": "bg-blue-50" },
+    { "type": "features", "background": "bg-white" },
+    { "type": "testimonial", "background": "bg-blue-50" },
+    { "type": "pricing", "background": "bg-white" },
+    { "type": "faq", "background": "bg-blue-50" },
+    { "type": "cta", "background": "bg-white" }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Project-Based Engagement",
+        "price": "Starting from $5,000",
+        "features": [
+            "Custom system design & development",
+            "Architecture tailored to your business needs",
+            "Scalable and maintainable codebase",
+            "End-to-end development support"
+        ],
+        "cta": "Discuss Your Project",
+        "highlight": false
+    },
+    {
+        "name": "Platform & ERP Development",
+        "price": "Starting from $15,000",
+        "features": [
+            "Full platform or ERP system development",
+            "Modular and reusable architecture",
+            "Multi-domain and multi-tenant ready",
+            "Long-term scalability planning"
+        ],
+        "cta": "Start a Consultation",
+        "highlight": true
+    },
+    {
+        "name": "Long-Term Partnership",
+        "price": "Custom",
+        "features": [
+            "Ongoing system development & improvement",
+            "Technical strategy & system evolution",
+            "Priority support & collaboration",
+            "Aligned with your long-term business growth"
+        ],
+        "cta": "Work Together",
+        "highlight": false
+    }
+]

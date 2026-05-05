@@ -1,0 +1,12 @@
+{
+    "title": "Let’s Build Something That Lasts",
+    "subtitle": "If you’re serious about building a system that scales and stands the test of time, let’s start a conversation.",
+    "primaryAction": {
+        "label": "Start a Conversation",
+        "href": "mailto:antons899@gmail.com"
+    },
+    "secondaryAction": {
+        "label": "View My Work",
+        "href": "#features"
+    }
+}

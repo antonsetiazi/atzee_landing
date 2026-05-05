@@ -1,0 +1,30 @@
+{
+    "title": "Common Problems in Software Development",
+    "subtitle": "Many businesses face the same challenges when building systems.",
+    "items": [
+        {
+            "title": "Rebuilding the Same System Again and Again",
+            "description": "Each project starts from scratch without a reusable foundation, leading to repeated time and cost inefficiencies."
+        },
+        {
+            "title": "Systems That Don’t Scale",
+            "description": "Applications work in the early stage but start to break down as the business grows because they were not designed for scalability."
+        },
+        {
+            "title": "Messy and Hard-to-Maintain Codebase",
+            "description": "Unstructured systems make it difficult to maintain, extend, and onboard new developers without introducing risks."
+        },
+        {
+            "title": "Business Logic Scattered Everywhere",
+            "description": "Core business logic is not properly structured, making it hard to control, test, and evolve over time."
+        },
+        {
+            "title": "No Long-Term Technical Direction",
+            "description": "Projects move forward without a clear long-term vision, making every change more complex and expensive."
+        },
+        {
+            "title": "Over-Reliance on Short-Term Solutions",
+            "description": "Quick fixes without proper planning eventually turn into technical debt that slows down future development."
+        }
+    ]
+}

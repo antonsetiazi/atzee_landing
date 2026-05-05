@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "title": "Platform-Oriented Thinking",
+            "description": "I build systems as platforms, not one-off projects, enabling long-term scalability and reuse."
+        },
+        {
+            "title": "Enterprise-Grade Architecture",
+            "description": "Clean, modular, and structured architecture designed to support complex and evolving business needs."
+        },
+        {
+            "title": "Multi-Industry Experience",
+            "description": "Experience across ERP, marketplace, services, and operational systems for various industries."
+        },
+        {
+            "title": "Backend & System Design Expertise",
+            "description": "Strong focus on backend architecture, system flows, and business logic that actually works in production."
+        },
+        {
+            "title": "Scalable Frontend Systems",
+            "description": "Frontend built with structure, consistency, and flexibility for long-term maintainability."
+        },
+        {
+            "title": "Long-Term Partnership Mindset",
+            "description": "Not just delivering projects, but building systems that support your business growth over time."
+        }
+    ]
+}

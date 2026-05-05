@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Apa itu Atzee dan bagaimana cara kerjanya?",
+        "answer": "Atzee adalah ERP Platform Engine yang digunakan untuk membangun berbagai sistem bisnis di atas satu fondasi yang sama. Alih-alih membangun dari nol, Anda menggunakan platform yang sudah siap dan dapat dikustomisasi sesuai kebutuhan."
+    },
+    {
+        "question": "Apakah Atzee bisa disesuaikan dengan kebutuhan bisnis saya?",
+        "answer": "Ya. Atzee dirancang modular sehingga setiap sistem dapat disesuaikan dengan kebutuhan spesifik bisnis, baik dari sisi fitur, alur kerja, maupun integrasi dengan sistem lain."
+    },
+    {
+        "question": "Apakah sistem yang dibangun akan menjadi milik saya?",
+        "answer": "Ya. Dengan pendekatan white-label, sistem yang dibangun dapat digunakan sebagai milik Anda sendiri, termasuk branding dan pengelolaan penuh sesuai kebutuhan bisnis."
+    },
+    {
+        "question": "Berapa lama waktu implementasi?",
+        "answer": "Waktu implementasi tergantung kompleksitas proyek. Namun, karena menggunakan fondasi Atzee, proses pengembangan jauh lebih cepat dibandingkan membangun sistem dari nol."
+    },
+    {
+        "question": "Apakah Atzee cocok untuk skala besar atau enterprise?",
+        "answer": "Ya. Atzee dirancang dengan arsitektur scalable yang mampu menangani kebutuhan bisnis dari skala kecil hingga enterprise, termasuk multi-tenant dan integrasi kompleks."
+    }
+]

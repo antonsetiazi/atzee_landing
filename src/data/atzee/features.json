@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "title": "Modular Architecture",
+            "description": "Bangun sistem sesuai kebutuhan Anda. Aktifkan hanya modul yang diperlukan tanpa membebani sistem."
+        },
+        {
+            "title": "Multi-Tenant System",
+            "description": "Kelola banyak bisnis atau cabang dalam satu platform dengan isolasi data yang aman dan fleksibel."
+        },
+        {
+            "title": "Reusable Business Engine",
+            "description": "Gunakan kembali fondasi yang sama untuk berbagai aplikasi tanpa perlu membangun dari awal."
+        },
+        {
+            "title": "Integrated System",
+            "description": "Semua komponen terhubung sejak awal, mengurangi kompleksitas integrasi antar sistem."
+        },
+        {
+            "title": "Scalable Foundation",
+            "description": "Dirancang untuk tumbuh bersama bisnis Anda, dari skala kecil hingga enterprise."
+        },
+        {
+            "title": "API-First Design",
+            "description": "Mudah diintegrasikan dengan sistem lain dan siap untuk pengembangan lebih lanjut."
+        }
+    ]
+}

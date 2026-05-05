@@ -1,0 +1,30 @@
+{
+    "brand": "ATZEE",
+    "logo": "https://res.cloudinary.com/daboazlmd/image/upload/v1777669048/65572163_i8stxp.png",
+    "favicon": "https://res.cloudinary.com/daboazlmd/image/upload/v1777669048/65572163_i8stxp.png",
+    "menu": [
+        { "label": "About", "target": "about" },
+        { "label": "How I Work", "target": "howiwork" },
+        { "label": "Features", "target": "features" },
+        { "label": "Pricing", "target": "pricing" },
+        { "label": "FAQ", "target": "faq" }
+    ],
+    "seo": {
+        "title": "ATZEE — Built with Experience, Designed for the Future",
+        "description": "Built with Experience, Designed for the Future",
+        "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085"
+    },
+    "theme": {
+        "colors": {
+            "primary": "#012752",
+            "secondary": "#5b389c"
+        },
+        "font": {
+            "body": "Inter",
+            "heading": "Sora",
+            "logo": "Tahoma"
+        },
+        "radius": "12px",
+        "container": "1200px"
+    }
+}

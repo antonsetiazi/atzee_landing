@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Platform License",
+        "price": "$5,000+",
+        "features": [
+            "Full access to Atzee platform core",
+            "White-label ready foundation",
+            "Modular architecture (activate as needed)",
+            "Single business deployment"
+        ],
+        "cta": "Get Started",
+        "popular": false
+    },
+    {
+        "name": "Business System",
+        "price": "$15,000+",
+        "features": [
+            "Complete business system implementation",
+            "Multi-module setup (booking, marketplace, etc)",
+            "Custom workflows & configuration",
+            "Integration with external systems"
+        ],
+        "cta": "Start Your Project",
+        "popular": true
+    },
+    {
+        "name": "Enterprise Solution",
+        "price": "Custom",
+        "features": [
+            "Full-scale enterprise platform",
+            "Multi-tenant architecture",
+            "Advanced customization & integrations",
+            "Dedicated support & long-term partnership"
+        ],
+        "cta": "Contact Sales",
+        "popular": false
+    }
+]

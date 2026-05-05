@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+
+  --color-primary: #6366f1;
+  --color-secondary: #ec4899;
+
+  /* --font-body: Inter;
+  --font-heading: Inter; */
+
+  --radius: 12px;
+
+  --container-width: 1200px;
+
+}
+
+.container {
+  max-width: var(--container-width);
+}
+
+.card {
+  border-radius: var(--radius);
+}

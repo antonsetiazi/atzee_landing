@@ -1,0 +1,33 @@
+{
+    "columns": [
+        {
+            "title": "Product",
+            "links": [
+                { "label": "Features", "href": "#features" },
+                { "label": "Pricing", "href": "#pricing" },
+                { "label": "FAQ", "href": "#faq" }
+            ]
+        },
+        {
+            "title": "Company",
+            "links": [
+                { "label": "About", "href": "#about-split" },
+                { "label": "Blog", "href": "#" },
+                { "label": "Contact", "href": "#" }
+            ]
+        },
+        {
+            "title": "Support",
+            "links": [
+                { "label": "Documentation", "href": "#" },
+                { "label": "Help Center", "href": "#" },
+                { "label": "Ticket System", "href": "#" }
+            ]
+        }
+    ],
+    "social": [
+        { "label": "Twitter", "href": "https://twitter.com/atzee" },
+        { "label": "LinkedIn", "href": "https://linkedin.com/company/atzee" }
+    ],
+    "copyright": "© 2026 Atzee Platform"
+}

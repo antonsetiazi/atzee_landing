@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "title": "Customer Management",
+            "description": "Manage customer profiles, IPs, PPPoE accounts, and network devices with ease."
+        },
+        {
+            "title": "Subscription & Billing",
+            "description": "Auto recurring invoices, suspend unpaid accounts, and track payments seamlessly."
+        },
+        {
+            "title": "Network Provisioning",
+            "description": "Integrate with Mikrotik, PPPoE servers, and OLTs for automatic user provisioning."
+        },
+        {
+            "title": "Monitoring & Analytics",
+            "description": "Track uptime, bandwidth usage, ping latency, and generate traffic reports."
+        },
+        {
+            "title": "Technician & Installation",
+            "description": "Schedule installations, assign technicians, manage tickets, and monitor field work."
+        },
+        {
+            "title": "Voucher & Hotspot",
+            "description": "Generate temporary vouchers with bandwidth and time limits for RT/RW networks or hotspots."
+        }
+    ]
+}

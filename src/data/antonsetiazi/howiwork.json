@@ -1,0 +1,26 @@
+{
+    "title": "How I Work",
+    "subtitle": "A structured and transparent approach to building long-term systems.",
+    "steps": [
+        {
+            "title": "Understanding the Business",
+            "description": "Start by deeply understanding your business model, goals, and challenges before writing any code."
+        },
+        {
+            "title": "System & Architecture Design",
+            "description": "Design a scalable and maintainable system architecture tailored to your needs."
+        },
+        {
+            "title": "Iterative Development",
+            "description": "Build the system in structured iterations, ensuring continuous progress and clarity."
+        },
+        {
+            "title": "Testing & Refinement",
+            "description": "Validate functionality, refine the system, and ensure stability before moving forward."
+        },
+        {
+            "title": "Deployment & Support",
+            "description": "Deploy the system and provide support to ensure smooth operation and future growth."
+        }
+    ]
+}

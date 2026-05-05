@@ -1,0 +1,20 @@
+{
+    "title": "What Our ISP Clients Say",
+    "items": [
+        {
+            "name": "Rudi Santoso",
+            "company": "FiberNet Bandung",
+            "quote": "Switching to this ISP platform saved us countless hours in billing and provisioning. Absolutely essential for scaling our FTTH network."
+        },
+        {
+            "name": "Lina Permata",
+            "company": "RWNet Semarang",
+            "quote": "The voucher and hotspot features are perfect for our RT/RW network. Our customers love the seamless connectivity experience."
+        },
+        {
+            "name": "Adi Nugroho",
+            "company": "Wireless Desa Connect",
+            "quote": "Monitoring and automated suspension of unpaid accounts really improved our cash flow and reduced admin overhead."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Can I integrate with Mikrotik and PPPoE servers?",
+        "answer": "Yes, our platform supports Mikrotik API, PPPoE servers, and Radius integration out of the box."
+    },
+    {
+        "question": "Does the system auto-suspend unpaid subscriptions?",
+        "answer": "Absolutely. You can configure auto-suspension rules, grace periods, and late payment notifications."
+    },
+    {
+        "question": "Can I manage installation and field technicians?",
+        "answer": "Yes, our system integrates with a schedule engine for installation jobs, ticket assignments, and technician management."
+    },
+    {
+        "question": "Is there support for voucher-based hotspots?",
+        "answer": "Yes, generate temporary vouchers with bandwidth and time limits for RT/RW networks or public hotspots."
+    },
+    {
+        "question": "Can I scale to thousands of customers?",
+        "answer": "Definitely. Our Professional and Enterprise plans are built to handle high-volume customer management efficiently."
+    }
+]

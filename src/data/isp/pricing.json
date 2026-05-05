@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Starter",
+        "price": "$49/mo",
+        "features": [
+            "Up to 500 customers",
+            "Basic monitoring & reports",
+            "Auto invoicing",
+            "PPPoE integration"
+        ],
+        "cta": "Start Free Trial",
+        "popular": false
+    },
+    {
+        "name": "Professional",
+        "price": "$149/mo",
+        "features": [
+            "Up to 2000 customers",
+            "Advanced monitoring & alerts",
+            "Full provisioning automation",
+            "Technician & installation management"
+        ],
+        "cta": "Subscribe Now",
+        "popular": true
+    },
+    {
+        "name": "Enterprise",
+        "price": "$399/mo",
+        "features": [
+            "Unlimited customers",
+            "Custom integrations (OLT, Mikrotik, Radius)",
+            "Network analytics & SLA tracking",
+            "Dedicated support & SLA"
+        ],
+        "cta": "Contact Sales",
+        "popular": false
+    }
+]

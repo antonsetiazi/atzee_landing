@@ -1,0 +1,30 @@
+{
+    "brand": "AntonSetiazi",
+    "logo": "https://res.cloudinary.com/daboazlmd/image/upload/v1777669048/65572163_i8stxp.png",
+    "favicon": "https://res.cloudinary.com/daboazlmd/image/upload/v1777669048/65572163_i8stxp.png",
+    "menu": [
+        { "label": "About", "target": "about" },
+        { "label": "How I Work", "target": "howiwork" },
+        { "label": "Features", "target": "features" },
+        { "label": "Pricing", "target": "pricing" },
+        { "label": "FAQ", "target": "faq" }
+    ],
+    "seo": {
+        "title": "Anton Setiazi — Software Architect & Platform Builder",
+        "description": "Helping businesses build scalable, long-term software systems without rebuilding from scratch.",
+        "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085"
+    },
+    "theme": {
+        "colors": {
+            "primary": "#0f1b22",
+            "secondary": "#f0d06e"
+        },
+        "font": {
+            "body": "Inter",
+            "heading": "Sora",
+            "logo": "Calibri"
+        },
+        "radius": "12px",
+        "container": "1200px"
+    }
+}
